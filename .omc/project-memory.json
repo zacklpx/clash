@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1772608909267,
+  "projectRoot": "/Users/zacklpx/Workspace/clash",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "list": {
+      "path": "list",
+      "purpose": null,
+      "fileCount": 23,
+      "lastAccessed": 1772608909262,
+      "keyFiles": [
+        "302.list",
+        "AI.list",
+        "AI2.list",
+        "ChatGPT.list",
+        "Check.list"
+      ]
+    },
+    "main_router": {
+      "path": "main_router",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1772608909263,
+      "keyFiles": [
+        "openclash"
+      ]
+    },
+    "proxy": {
+      "path": "proxy",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1772608909263,
+      "keyFiles": [
+        "clash-all.ini",
+        "clash-full.ini",
+        "clash-lian.ini",
+        "clash-mini.ini"
+      ]
+    },
+    "second_router": {
+      "path": "second_router",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1772608909263,
+      "keyFiles": [
+        "openclash"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
